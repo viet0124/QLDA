@@ -1,0 +1,1 @@
+print("quan ly sinh vien")
